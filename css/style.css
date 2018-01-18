@@ -1,0 +1,68 @@
+body{
+    font-style: italic;
+    background: gainsboro;
+    font-family: "Verdana";
+    color: #940000;
+}
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+.navigation {
+    height: 350px;
+    width: 960px;
+    background-image: url("../img/top.jpg");
+    margin-bottom: 20px;
+}
+.main{
+    background: azure;
+    width: 960px;
+    padding: 0;
+}
+table{
+    border-spacing: 51.5px ;
+}
+.copywright{
+    text-align: center;
+    float: left;
+    background: #940000;
+    width:940px;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+
+}
+.foter{
+    text-align: center;
+    float: left;
+    background: azure;
+    width:940px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.home{
+    float: left;
+    width:33.33%;
+    padding: 0;
+    margin:0;
+    font-family: "Matura MT Script Capitals";
+}
+a{
+    color:  #940000;
+}
+
+.text{
+    padding: 51.5px;
+}
+.button{
+    height: 30px;
+    width:248px;
+    background-color:#cfd8ed;
+    color: #940000;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}

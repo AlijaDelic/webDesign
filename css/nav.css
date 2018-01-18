@@ -1,0 +1,16 @@
+.igman{
+    margin-left: 12px;
+    opacity: 0.8;
+    border: 1px solid #940000;
+    border-radius: 20px;
+    background-color: white;
+    color: #940000;
+    float: left;
+    height: 37px;
+    width: 23%;
+    font-size: 25px;
+    position: relative;
+    top: 310px;
+    padding-top: 3px;
+    text-align: center;
+}

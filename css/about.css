@@ -1,0 +1,37 @@
+.main{
+    overflow: hidden;
+}
+.pic{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.txt{
+    padding: 0 51.5px 10px 51px;
+   ;
+}
+.previusPage{
+    float: left;
+    width: 150px;
+    height: 25px ;
+    background-color: white;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid;
+}
+.nextPage{
+    width: 150px;
+    text-align: center;
+    height: 25px ;
+    background-color: white;
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px solid;
+}
